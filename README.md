@@ -36,6 +36,11 @@ Open `excel/pharmacy_operations.xlsx` in Excel. `Order Detail` and `Pivot Ready`
 
 Follow `powerbi/README.md` to import cleaned tables, set relationships, add measures and build the specified pages. The project supplies the CSV model and report specification, not an authored `.pbix` dashboard.
 
+## Public real-world dataset alternative
+
+The current fulfilment scenario is synthetic because the public real-world pharmacy dataset found for this project covers sales and stock movements but does not include prescription-validation, dispatch or delivery timestamps. See `documentation/public_dataset_assessment.md` for its source, CC BY 4.0 license, scope and limits. A real-data portfolio version should focus on sales and inventory; the current six-hour fulfilment results must remain explicitly synthetic.
+
 ## Limitations
 
 No real data, live connectors, Power Query automation, native Excel PivotTables, Power BI `.pbix`, production scheduling or external stakeholder collaboration are included. Timestamp timezone behavior and data distributions are simplified for a portfolio exercise. Validate all tools and claims before describing this project in an interview.
+
