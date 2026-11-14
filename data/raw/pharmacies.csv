@@ -1,0 +1,13 @@
+pharmacy_id,pharmacy_name,city,region,capacity_band
+PH001,Bengaluru Pharmacy 1,Bengaluru,South,Small
+PH002,Bengaluru Pharmacy 2,Bengaluru,South,Medium
+PH003,Chennai Pharmacy 1,Chennai,South,Large
+PH004,Chennai Pharmacy 2,Chennai,South,Small
+PH005,Hyderabad Pharmacy 1,Hyderabad,South,Medium
+PH006,Hyderabad Pharmacy 2,Hyderabad,South,Large
+PH007,Pune Pharmacy 1,Pune,West,Small
+PH008,Pune Pharmacy 2,Pune,West,Medium
+PH009,Mumbai Pharmacy 1,Mumbai,West,Large
+PH010,Mumbai Pharmacy 2,Mumbai,West,Small
+PH011,Delhi Pharmacy 1,Delhi,North,Medium
+PH012,Delhi Pharmacy 2,Delhi,North,Large

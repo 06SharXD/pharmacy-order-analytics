@@ -1,0 +1,37 @@
+{
+  "synthetic_data": true,
+  "seed": 20261114,
+  "raw_orders_including_duplicate_row": 1000,
+  "clean_orders": 997,
+  "clean_order_items": 2517,
+  "delivered_orders_with_valid_duration": 773,
+  "delivered_within_6h_rate": 0.4631,
+  "average_fulfillment_hours": 6.23,
+  "delivered_order_value_total": 4066891.65,
+  "cancellation_rate": 0.1294,
+  "repeat_customer_rate": 0.792,
+  "inventory_at_or_below_reorder_point_rows": 79,
+  "intentional_data_quality_issues": 6,
+  "city_cancellation_rates": {
+    "Chennai": 0.1098,
+    "Mumbai": 0.15,
+    "Delhi": 0.0904,
+    "Bengaluru": 0.1329,
+    "Pune": 0.1453,
+    "Hyderabad": 0.1469
+  },
+  "pharmacy_avg_fulfillment_minutes": {
+    "PH010": 354.4,
+    "PH001": 373.2,
+    "PH008": 385.6,
+    "PH011": 393.0,
+    "PH007": 375.9,
+    "PH005": 353.5,
+    "PH004": 386.5,
+    "PH002": 358.6,
+    "PH003": 362.4,
+    "PH009": 365.5,
+    "PH006": 372.7,
+    "PH012": 397.1
+  }
+}

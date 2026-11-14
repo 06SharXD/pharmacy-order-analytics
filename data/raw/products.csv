@@ -1,0 +1,46 @@
+product_id,product_name,category,unit_price,prescription_required
+PR001,Prescription Product 01,Prescription,138.23,true
+PR002,OTC Product 02,OTC,850.4,false
+PR003,Wellness Product 03,Wellness,1397.43,false
+PR004,Personal Care Product 04,Personal Care,780.33,false
+PR005,Devices Product 05,Devices,232.64,false
+PR006,Prescription Product 06,Prescription,80.73,true
+PR007,OTC Product 07,OTC,1184.65,false
+PR008,Wellness Product 08,Wellness,388.94,false
+PR009,Personal Care Product 09,Personal Care,1458.19,false
+PR010,Devices Product 10,Devices,268.78,false
+PR011,Prescription Product 11,Prescription,1280.02,true
+PR012,OTC Product 12,OTC,1256.28,false
+PR013,Wellness Product 13,Wellness,995.9,false
+PR014,Personal Care Product 14,Personal Care,830.84,false
+PR015,Devices Product 15,Devices,622.74,false
+PR016,Prescription Product 16,Prescription,439.48,true
+PR017,OTC Product 17,OTC,392.56,false
+PR018,Wellness Product 18,Wellness,262.59,false
+PR019,Personal Care Product 19,Personal Care,1409.32,false
+PR020,Devices Product 20,Devices,867.67,false
+PR021,Prescription Product 21,Prescription,1332.55,true
+PR022,OTC Product 22,OTC,1274.39,false
+PR023,Wellness Product 23,Wellness,1380.09,false
+PR024,Personal Care Product 24,Personal Care,619.22,false
+PR025,Devices Product 25,Devices,744.68,false
+PR026,Prescription Product 26,Prescription,1174.16,true
+PR027,OTC Product 27,OTC,1112.65,false
+PR028,Wellness Product 28,Wellness,976.58,false
+PR029,Personal Care Product 29,Personal Care,1476.29,false
+PR030,Devices Product 30,Devices,1457.49,false
+PR031,Prescription Product 31,Prescription,564.78,true
+PR032,OTC Product 32,OTC,303.17,false
+PR033,Wellness Product 33,Wellness,978.74,false
+PR034,Personal Care Product 34,Personal Care,655.88,false
+PR035,Devices Product 35,Devices,1338.85,false
+PR036,Prescription Product 36,Prescription,250.28,true
+PR037,OTC Product 37,OTC,152.83,false
+PR038,Wellness Product 38,Wellness,364.68,false
+PR039,Personal Care Product 39,Personal Care,209.2,false
+PR040,Devices Product 40,Devices,810.98,false
+PR041,Prescription Product 41,Prescription,1447.04,true
+PR042,OTC Product 42,OTC,531.05,false
+PR043,Wellness Product 43,Wellness,1390.37,false
+PR044,Personal Care Product 44,Personal Care,248.87,false
+PR045,Devices Product 45,Devices,1218.89,false

@@ -1,0 +1,7 @@
+source_table,source_row,record_key,issue_code,severity,disposition,business_impact
+orders,13,OR00012,MISSING_OR_UNKNOWN_PHARMACY,High,Quarantined from pharmacy-level analysis,Cannot attribute performance to pharmacy
+orders,26,OR00025,INVALID_ORDER_TIMESTAMP,High,Quarantined; timestamp not parseable,Cannot assign to reporting period or calculate elapsed time
+orders,46,OR00044,DUPLICATE_ORDER_ID,High,Quarantined duplicate; first occurrence retained,Could double count orders and revenue
+order_items,10,IT000009,NONPOSITIVE_QUANTITY,High,Quarantined invalid line,Would reduce or distort item and revenue totals
+order_items,17,IT000016,UNKNOWN_PRODUCT,High,Quarantined unresolved product key,Cannot classify item or join product attributes
+delivery_events,2,OR00001,DELIVERED_WITHOUT_DELIVERY_TS,High,Quarantined from elapsed-time KPI,Fulfilment duration is unavailable
