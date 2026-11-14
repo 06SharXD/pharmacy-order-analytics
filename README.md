@@ -1,0 +1,1 @@
+Placeholder for synthetic Pharmacy Order Fulfilment & Inventory Analytics project. Full README and project files will be published in the next commit.
