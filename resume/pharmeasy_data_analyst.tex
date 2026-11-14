@@ -1,0 +1,62 @@
+\documentclass[10pt,a4paper]{article}
+\usepackage[margin=0.46in,top=0.35in,bottom=0.35in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[hidelinks]{hyperref}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{xcolor}
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\definecolor{accent}{HTML}{1F3A5F}
+\titleformat{\section}{\normalsize\bfseries\color{accent}}{}{0em}{}[\vspace{-4pt}\rule{\textwidth}{0.45pt}]
+\titlespacing*{\section}{0pt}{4pt}{2pt}
+\setlist[itemize]{leftmargin=1.05em,itemsep=0pt,topsep=1pt,parsep=0pt,partopsep=0pt}
+\newcommand{\role}[4]{\textbf{#1}\hfill #3\\[-1pt]\textit{#2}\hfill\textit{#4}\vspace{1pt}}
+\newcommand{\project}[3]{\textbf{#1}\hfill\href{#3}{GitHub}\\[-1pt]\textit{#2}\par\vspace{-2pt}}
+\begin{document}
+\small
+\begin{center}
+{\LARGE\bfseries SHARATH C}\\[2pt]
+8248789401 \ $|$ \href{mailto:sharath.c23@iiits.in}{sharath.c23@iiits.in} \ $|$ \href{https://github.com/06SharXD}{GitHub} \ $|$ \href{https://06sharxd.github.io/sharathc-portfolio/}{Portfolio}
+\end{center}
+\vspace{-7pt}
+
+\section{Summary}
+Final-year Electronics and Communication Engineering student at IIIT Sri City (2027) with analytics project experience in SQL, Python, Excel and BI reporting. Skilled in data cleaning, KPI analysis, requirements documentation and communicating evidence-based recommendations.
+
+\section{Education}
+\role{Indian Institute of Information Technology (IIIT), Sri City}{B.Tech, Electronics \& Communication Engineering}{2023 -- 2027}{}
+
+\section{Skills}
+\textbf{SQL:} joins, CTEs, subqueries, aggregations, window functions \quad
+\textbf{Python:} Pandas, data analysis\\
+\textbf{Excel:} data cleaning, formulas, structured tables, pivot-ready summaries \quad
+\textbf{BI:} Power BI, Tableau\\
+\textbf{Business:} requirements/BRD, KPI reporting, data-quality checks, stakeholder communication \quad
+\textbf{Tools:} Jira, Postman, Git/GitHub
+
+\section{Selected Projects}
+\project{Pharmacy Order Fulfilment \& Inventory Analytics (synthetic portfolio scenario)}{Python, SQL, Excel, Power BI model}{https://github.com/06SharXD/pharmacy-order-analytics}
+Built a deterministic synthetic pharmacy dataset and SQL/Python workflow for order fulfilment, cancellations, inventory thresholds and data-quality checks. Created an Excel formula summary and pivot-ready tables; documented Power BI measures and report layout. No PharmEasy data, native PivotTables, Power Query automation or \texttt{.pbix} is claimed.
+
+\vspace{2pt}
+\project{E-Commerce A/B Testing \& Conversion Analysis (synthetic experiment)}{Python, SQL, Tableau}{https://github.com/06SharXD/E-Commerce-AB-Testing-CRO}
+Analysed approximately 290K sessions; compared control conversion (12.04\%) with treatment (11.88\%), found no significant lift (p = 0.906), and recommended against rollout. Documented experiment requirements and guardrail metrics.
+
+\vspace{2pt}
+\project{SocialConnect API \& Data Validation (QA simulation)}{Postman, SQL, Jira, SQLite}{https://github.com/06SharXD/SocialConnect-SQA-Testing}
+Executed 25 functional test cases; used Postman and SQL to investigate API/database inconsistencies, documented 7 defects in Jira and verified all 7 fixes.
+
+\section{Experience}
+\role{Entrepreneurship Cell (E-Cell), IIIT Sri City}{Board Member -- Business Development \& Partner Relations}{Aug 2024 -- May 2026}{}
+Clarified partner requirements, prepared outreach pitches and coordinated internal teams and external partners for events involving 400+ participants.
+
+\vspace{2pt}
+\role{National Institute of Technology, Tiruchirappalli}{Summer Research Intern -- Data Analysis \& Technical Reporting}{May 2025 -- Jul 2025}{}
+Organized simulation data, checked missing values and inconsistencies, analysed results and prepared technical reports for faculty review.
+
+\section{Certifications \& Achievements}
+Deloitte Data Analytics Job Simulation (Forage) \ $|$ Runner-up, ElectroForge Hackathon \ $|$ Runner-up, Bit and Build Hackathon
+\end{document}
+
